@@ -1,0 +1,19 @@
+/* Write your CSS here */
+.button {
+  background-color: rgb(84, 84, 230);
+  color: white;
+}
+.body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.content {
+  text-align: center;
+}
+span {
+  color: red;
+}
+.image_class {
+  height: 50vh;
+}
